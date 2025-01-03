@@ -2,6 +2,11 @@
 
 A simple calculator app built with React.js. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with an intuitive interface.
 
+### Prerequisites
+
+- Node.js
+- npm
+
 ## Features
 
 - Addition, subtraction, multiplication, and division operations
